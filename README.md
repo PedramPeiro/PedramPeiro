@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pedram Peiro, I'm a third year student at Amirkabir University of Technology
 - 👀 I’m interested in datascience and machine learning
-- 🌱 I’m currently learning simulation
+- 🌱 I’m currently learning deep learning
 - 📫 How to reach me: 
 - 1. pedrampeiro@gmail.com
 - 2. www.linkedin.com/in/pedrampeiro
