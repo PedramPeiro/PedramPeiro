@@ -2,7 +2,7 @@
 - 👀 I’m interested in datascience and machine learning
 - 🌱 I’m currently looking for relevant jobs.
 - 📫 How to reach me: 
-- 1. pedrampeiro@gmail.com
+  1. pedrampeiro@gmail.com
   2. pedram.peirasfia@hec.ca
   3. www.linkedin.com/in/pedrampeiro
 
