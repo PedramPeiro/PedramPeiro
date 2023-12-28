@@ -3,7 +3,7 @@
 - 🌱 I’m currently looking for relevant jobs.
 - 📫 How to reach me: 
   1. pedrampeiro@gmail.com
-  2. pedram.peirasfia@hec.ca
+  2. pedram.peiroasfia@hec.ca
   3. www.linkedin.com/in/pedrampeiro
 
 <!---
