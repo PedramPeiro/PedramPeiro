@@ -23,8 +23,8 @@ PhD student in Management Science at HEC Montréal, trying to figure out how to 
 <br>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedramPeiro&show_icons=true&count_private=true&theme=default&hide_border=true&hide_title=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedramPeiro&layout=compact&hide_border=true&hide_title=true" height="165" alt="Top languages" />
+  <img src="./profile/stats.svg" height="165" alt="GitHub stats" />
+  <img src="./profile/top-langs.svg" height="165" alt="Top languages" />
 </p>
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=PedramPeiro&hide_border=true&theme=default" alt="GitHub streak" />
