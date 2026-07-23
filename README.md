@@ -1,12 +1,17 @@
-- 👋 Hi, I’m Pedram Peiro, I'm a Master student in Data Science and Business Analytics in HEC Montreal.
-- 👀 I’m interested in datascience and machine learning
-- 🌱 I’m currently looking for relevant jobs.
-- 📫 How to reach me: 
-  1. pedrampeiro@gmail.com
-  2. pedram.peiroasfia@hec.ca
-  3. www.linkedin.com/in/pedrampeiro
+### Hey, I'm Pedram 👋
 
-<!---
-PedramPeiro/PedramPeiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+PhD student in Management Science at HEC Montréal, trying to figure out how to make good decisions when the future refuses to cooperate. My research lives somewhere between sequential decision-making under uncertainty, stochastic & robust optimization, and applied ML.
+
+- 🔭 Working on learning-based sequential decision-making under uncertainty
+- 🌱 Before the PhD: a few years doing data science in industry, then decided deadlines set by myself were more fun
+- 📫 pedram.peiroasfia@hec.ca · pedrampeiro@gmail.com · [linkedin.com/in/pedrampeiro](https://www.linkedin.com/in/pedrampeiro)
+
+<br>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedramPeiro&show_icons=true&count_private=true&theme=default&hide_border=true&hide_title=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedramPeiro&layout=compact&hide_border=true&hide_title=true" height="165" alt="Top languages" />
+</p>
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=PedramPeiro&hide_border=true&theme=default" alt="GitHub streak" />
+</p>
