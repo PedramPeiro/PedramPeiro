@@ -23,9 +23,5 @@ PhD student in Management Science at HEC Montréal, trying to figure out how to 
 <br>
 
 <p align="left">
-  <img src="./profile/stats.svg" height="165" alt="GitHub stats" />
-  <img src="./profile/top-langs.svg" height="165" alt="Top languages" />
-</p>
-<p align="left">
   <img src="https://streak-stats.demolab.com?user=PedramPeiro&hide_border=true&theme=default" alt="GitHub streak" />
 </p>
