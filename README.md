@@ -1,4 +1,4 @@
-### Hey, I'm Pedram 👋
+### Hey, I'm Pedram <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="waving hand" />
 
 <p align="left">
   <a href="mailto:pedram.peiroasfia@hec.ca"><img src="https://img.shields.io/badge/Email-pedram.peiroasfia%40hec.ca-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
